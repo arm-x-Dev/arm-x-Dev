@@ -1,13 +1,21 @@
 # 👋 Hi, I'm Alok M
 
 ![ECE](https://img.shields.io/badge/Education-ECE-red?style=for-the-badge)
-![Former Android Intern](https://img.shields.io/badge/Former_Intern-MindMatrix-green?style=for-the-badge)
-![Samsung AI/ML](https://img.shields.io/badge/Certified-Samsung%20Innovation%20Campus-blue?style=for-the-badge)
+![Samsung AI/ML](https://img.shields.io/badge/Samsung_Innovation_Campus-AI_%2F_ML-blue?style=for-the-badge&logo=samsung&logoColor=white)
 
 ---
 
 ### 🚀 About Me
 I'm an **Electronics and Communication Engineering** student at KLEIT, Hubli. I love bridging the gap between hardware and software—whether it's crafting smooth UIs in Jetpack Compose or hacking wireless signals on an ESP32.
+
+---
+
+### 💼 Experience
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+*   **Android Developer Intern** @ **MindMatrix** *(Completed)*
+    *   Developed mobile solutions and worked closely with modern Android frameworks.
+    *   Built and deployed **GramaWaste**, a smart rural waste-management application utilizing Jetpack Compose and Firebase.
 
 ---
 
@@ -23,16 +31,16 @@ I'm an **Electronics and Communication Engineering** student at KLEIT, Hubli. I 
 
 ### 🚀 Featured Projects
 
-* **📍 ESP-32 Based Indoor Localization System (Major Project)**
-    * Designed a wireless positioning system using ESP32 nodes to calculate coordinates via RSSI triangulation. 
-    * Developed a companion Android app to capture, filter, and visualize tracking data in real-time.
+*   **📍 ESP-32 Based Indoor Localization System (Major Project)**
+    *   Designed a wireless positioning system using ESP32 nodes to calculate coordinates via RSSI triangulation. 
+    *   Developed a companion Android app to capture, filter, and visualize tracking data in real-time.
 
-* **♻️ GramaWaste (Capstone Internship Project)**
-    * A smart rural waste-management app built with Jetpack Compose during my time at MindMatrix.
-    * Features live driver tracking (OpenStreetMap) and real-time synchronization via Firebase.
+*   **♻️ GramaWaste (Capstone Internship Project)**
+    *   A smart rural waste-management app built with Jetpack Compose during my time at MindMatrix.
+    *   Features live driver tracking (OpenStreetMap) and real-time synchronization via Firebase.
 
-* **📶 Wi-Fi CSI Human Detection (R&D Hobby)**
-    * Analyzing raw Channel State Information (CSI) from ESP32 signals to train models for device-free presence detection. *(In Progress)*
+*   **📶 Wi-Fi CSI Human Detection (R&D Hobby)**
+    *   Analyzing raw Channel State Information (CSI) from ESP32 signals to train models for device-free presence detection. *(In Progress)*
 
 ---
 
