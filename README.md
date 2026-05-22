@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alok M
 
 ![ECE](https://img.shields.io/badge/Education-ECE-red?style=for-the-badge)
-![Samsung AI/ML](https://img.shields.io/badge/Samsung_Innovation_Campus-AI_%2F_ML-blue?style=for-the-badge&logo=samsung&logoColor=white)
+![Samsung AI/ML](https://img.shields.io/badge/SAMSUNG_INNOVATION_CAMPUS-AI_%2F_ML-000000?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1428A0)
 
 ---
 
