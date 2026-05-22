@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alok M
+# 👋 Hi, I'm Alok Muranal
 
 ![ECE](https://img.shields.io/badge/Education-ECE-red?style=for-the-badge)
 ![Samsung AI/ML](https://img.shields.io/badge/SAMSUNG_INNOVATION_CAMPUS-AI_%2F_ML-000000?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1428A0)
@@ -6,41 +6,45 @@
 ---
 
 ### 🚀 About Me
-I'm an **Electronics and Communication Engineering** student at KLEIT, Hubli. I love bridging the gap between hardware and software—whether it's crafting smooth UIs in Jetpack Compose or hacking wireless signals on an ESP32.
+I am a **Systems & Mobile Application Engineer** specializing in bridging the gap between low-level hardware architectures and modern software frameworks. From processing raw **Wi-Fi Channel State Information (CSI)** on microcontrollers to architecting reactive, high-performance mobile interfaces using **Jetpack Compose**, I focus on building efficient, full-stack hardware-to-cloud solutions.
+
+* **Core Focus:** Embedded Firmware (C/C++), Android Architecture (Kotlin), Signal Processing, and Edge AI.
+* **Workflow Philosophy:** Leverages cutting-edge Generative AI tools to accelerate system architecture, debugging, and rapid deployment pipelines.
 
 ---
 
-### 💼 Experience
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### 💼 Professional Experience
 
-*   **Android Developer Intern** @ **MindMatrix** *(Completed)*
-    *   Developed mobile solutions and worked closely with modern Android frameworks.
-    *   Built and deployed **GramaWaste**, a smart rural waste-management application utilizing Jetpack Compose and Firebase.
+#### **Android Developer Intern** | MindMatrix 
+* **Framework Engineering:** Engineered and deployed production-ready mobile architecture using **Kotlin** and **Jetpack Compose**, focusing on clean data streams and declarative state management.
+* **GramaWaste System:** Architected and launched a geo-distributed rural waste management application, integrating **OpenStreetMap API** for real-time driver telemetry and **Firebase** for live, reactive database synchronization.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Core Technology Stack
 
-| Category | Tools & Technologies |
+| Domain | Engineering Tools & Frameworks |
 | :--- | :--- |
-| **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Hardware** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=white) **RSSI Triangulation** • **Wi-Fi CSI** |
-| **Data & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=flat-square) |
+| **Mobile Systems** | Android SDK, Kotlin, Jetpack Compose, Coroutines, Flow, Architecture Components (MVVM) |
+| **Hardware & Firmware** | ESP32 Ecosystem, Embedded C, RSSI Triangulation, Wi-Fi CSI Analysis, Register Manipulation |
+| **Data, Analytics & AI** | Python, NumPy, Pandas, Scikit-Learn, Automated Signal Filtering, Seaborn |
+| **Cloud & Infrastructure** | Firebase Realtime Database, Firestore, Git/GitHub Version Control Systems |
 
 ---
 
-### 🚀 Featured Projects
+### 📡 Featured Engineering Repositories
 
-*   **📍 ESP-32 Based Indoor Localization System (Major Project)**
-    *   Designed a wireless positioning system using ESP32 nodes to calculate coordinates via RSSI triangulation. 
-    *   Developed a companion Android app to capture, filter, and visualize tracking data in real-time.
+#### 📍 **ESP-32 Real-Time Indoor Localization Architecture**
+* Designed and deployed a wireless positioning framework utilizing a matrix of ESP32 nodes to calculate physical coordinates via raw **RSSI Triangulation**.
+* Developed a high-throughput companion Android application to stream, digitally filter, and visualize indoor asset locations dynamically.
 
-*   **♻️ GramaWaste (Capstone Internship Project)**
-    *   A smart rural waste-management app built with Jetpack Compose during my time at MindMatrix.
-    *   Features live driver tracking (OpenStreetMap) and real-time synchronization via Firebase.
+#### 📶 **Device-Free Presence Detection via Wi-Fi CSI**
+* Capturing sub-carrier amplitude and phase data using **Channel State Information (CSI)** streams directly from ESP32 network controllers.
+* Processing raw RF environmental signatures through a Python data pipeline to detect human presence without optical sensors or wearable tags.
 
-*   **📶 Wi-Fi CSI Human Detection (R&D Hobby)**
-    *   Analyzing raw Channel State Information (CSI) from ESP32 signals to train models for device-free presence detection. *(In Progress)*
+#### ♻️ **GramaWaste Ecosystem**
+* A complete full-stack, state-driven Android application optimizing waste tracking logistics.
+* Features custom map rendering pipelines, real-time background location telemetry, and distributed data syncing.
 
 ---
 
