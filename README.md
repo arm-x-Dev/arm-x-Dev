@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alok M
 
 ![ECE](https://img.shields.io/badge/Education-ECE-red?style=for-the-badge)
-![Android Intern](https://img.shields.io/badge/Intern-MindMatrix-green?style=for-the-badge)
+![Former Android Intern](https://img.shields.io/badge/Former_Intern-MindMatrix-green?style=for-the-badge)
 ![Samsung AI/ML](https://img.shields.io/badge/Certified-Samsung%20Innovation%20Campus-blue?style=for-the-badge)
 
 ---
@@ -28,7 +28,7 @@ I'm an **Electronics and Communication Engineering** student at KLEIT, Hubli. I 
     * Developed a companion Android app to capture, filter, and visualize tracking data in real-time.
 
 * **♻️ GramaWaste (Capstone Internship Project)**
-    * A smart rural waste-management app built with Jetpack Compose.
+    * A smart rural waste-management app built with Jetpack Compose during my time at MindMatrix.
     * Features live driver tracking (OpenStreetMap) and real-time synchronization via Firebase.
 
 * **📶 Wi-Fi CSI Human Detection (R&D Hobby)**
