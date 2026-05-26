@@ -50,4 +50,5 @@ I am a **Systems & Mobile Application Engineer** specializing in bridging the ga
 
 ### 📫 Let's Connect
 
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-emerald?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-sand-five-75.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alok-muranal)
