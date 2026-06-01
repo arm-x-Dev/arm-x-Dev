@@ -6,45 +6,29 @@
 ---
 
 ### 🚀 About Me
-I am a **Systems & Mobile Application Engineer** specializing in bridging the gap between low-level hardware architectures and modern software frameworks. From processing raw **Wi-Fi Channel State Information (CSI)** on microcontrollers to architecting reactive, high-performance mobile interfaces using **Jetpack Compose**, I focus on building efficient, full-stack hardware-to-cloud solutions.
-
-* **Core Focus:** Embedded Firmware (C/C++), Android Architecture (Kotlin), Signal Processing, and Edge AI.
-* **Workflow Philosophy:** Leverages cutting-edge Generative AI tools to accelerate system architecture, debugging, and rapid deployment pipelines.
-
----
-
-### 💼 Professional Experience
-
-#### **Android Developer Intern** | MindMatrix 
-* **Framework Engineering:** Engineered and deployed production-ready mobile architecture using **Kotlin** and **Jetpack Compose**, focusing on clean data streams and declarative state management.
-* **GramaWaste System:** Architected and launched a geo-distributed rural waste management application, integrating **OpenStreetMap API** for real-time driver telemetry and **Firebase** for live, reactive database synchronization.
+I am a **Systems & Mobile Application Engineer** specializing in full-stack hardware-to-cloud solutions. I bridge the gap between low-level hardware architectures (ESP32/Firmware) and modern software frameworks (Android/Jetpack Compose) using Generative AI to accelerate deployment.
 
 ---
 
 ### 🛠️ Core Technology Stack
+* **Mobile Systems:** Android SDK, Kotlin, Jetpack Compose, Coroutines, MVVM
+* **Hardware & Firmware:** ESP32, Embedded C, RSSI Triangulation, Wi-Fi CSI
+* **Data & Edge AI:** Python, NumPy, Scikit-Learn, Signal Filtering
+* **Cloud & Infra:** Firebase, Firestore, Git/GitHub
 
-| Domain | Engineering Tools & Frameworks |
-| :--- | :--- |
-| **Mobile Systems** | Android SDK, Kotlin, Jetpack Compose, Coroutines, Flow, Architecture Components (MVVM) |
-| **Hardware & Firmware** | ESP32 Ecosystem, Embedded C, RSSI Triangulation, Wi-Fi CSI Analysis, Register Manipulation |
-| **Data, Analytics & AI** | Python, NumPy, Pandas, Scikit-Learn, Automated Signal Filtering, Seaborn |
-| **Cloud & Infrastructure** | Firebase Realtime Database, Firestore, Git/GitHub Version Control Systems |
+---
+
+### 💼 Professional Experience
+**Android Developer Intern** | MindMatrix 
+* Engineered production-ready Android architectures using **Kotlin** and **Jetpack Compose**.
+* Launched **GramaWaste**, a rural waste management app using **OpenStreetMap** and **Firebase**.
 
 ---
 
 ### 📡 Featured Engineering Repositories
-
-#### 📍 **ESP-32 Real-Time Indoor Localization Architecture**
-* Designed and deployed a wireless positioning framework utilizing a matrix of ESP32 nodes to calculate physical coordinates via raw **RSSI Triangulation**.
-* Developed a high-throughput companion Android application to stream, digitally filter, and visualize indoor asset locations dynamically.
-
-#### 📶 **Device-Free Presence Detection via Wi-Fi CSI**
-* Capturing sub-carrier amplitude and phase data using **Channel State Information (CSI)** streams directly from ESP32 network controllers.
-* Processing raw RF environmental signatures through a Python data pipeline to detect human presence without optical sensors or wearable tags.
-
-#### ♻️ **GramaWaste Ecosystem**
-* A complete full-stack, state-driven Android application optimizing waste tracking logistics.
-* Features custom map rendering pipelines, real-time background location telemetry, and distributed data syncing.
+* 📍 **ESP-32 Indoor Localization:** Wireless positioning matrix using RSSI triangulation and a real-time tracking Android app.
+* 📶 **Wi-Fi CSI Presence Detection:** Device-free human presence detection using ESP32 RF sub-carrier data and Python processing pipelines.
+* ♻️ **GramaWaste Ecosystem:** Full-stack Android app featuring background location telemetry and distributed data syncing.
 
 ---
 
