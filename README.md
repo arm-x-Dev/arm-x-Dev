@@ -5,7 +5,7 @@
 
 ![Education](https://img.shields.io/badge/ECE-Electronics_%26_Communication-red?style=for-the-badge)
 ![Samsung](https://img.shields.io/badge/SAMSUNG_INNOVATION_CAMPUS-AI_%2F_ML-000000?style=for-the-badge&logo=samsung&logoColor=white&labelColor=1428A0)
-![Android](https://img.shields.io/badge/Android-Kotlin_%26_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android)
 ![Hardware](https://img.shields.io/badge/Firmware-ESP32_%26_C-FF7800?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
