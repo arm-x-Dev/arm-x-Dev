@@ -50,30 +50,27 @@
 
 <br>
 
-<table align="left" style="border: 1px solid #e0e0e0; border-radius: 8px; border-collapse: separate; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.05); max-width: 320px; line-height: 1.4;">
+<table align="left" width="300" style="background-color: #ffffff;">
   <!-- Header Banner -->
-  <tr style="background-color: #f3ece4; border: none;">
-    <td style="padding: 12px 16px; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20" alt="LinkedIn Logo">
+  <tr>
+    <td bgcolor="#f3ece4" align="left" style="padding: 12px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="18" alt="LinkedIn">
     </td>
   </tr>
   <!-- Profile Content -->
-  <tr style="background-color: #ffffff; border: none;">
-    <td style="padding: 16px; border: none;">
-      <!-- Profile Image Placeholder (Replace with your own link if wanted) -->
-      <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/person-circle.svg" width="65" height="65" style="border-radius: 50%; opacity: 0.4;" alt="Avatar"><br><br>
-      
-      <!-- Name -->
-      <span style="font-size: 18px; font-weight: 700; color: #000000; display: block; margin-bottom: 4px;">Alok M.</span>
-      
-      <!-- Headline & Company -->
-      <span style="font-size: 13.5px; color: #191919; display: block; margin-bottom: 2px;">Innovating with Edge AI and TinyML in Android Development</span>
-      <span style="font-size: 12px; color: #666666; display: block; margin-bottom: 16px;">MindMatrixEd</span><br>
-      
-      <!-- Pill Shape View Profile Button -->
-      <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" style="text-decoration: none; display: inline-block;">
-        <span style="display: inline-block; padding: 6px 18px; border: 1px solid #0a66c2; border-radius: 50px; color: #0a66c2; font-size: 14px; font-weight: 600; text-align: center; background-color: transparent;">View profile</span>
+  <tr>
+    <td align="left" style="padding: 16px;">
+      <br>
+      <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/person-circle.svg" width="60" height="60" alt="Avatar">
+      <br><br>
+      <h3>Alok M.</h3>
+      <p>Innovating with Edge AI and TinyML in Android Development<br>
+      <font color="gray" size="2">MindMatrixEd</font></p>
+      <br>
+      <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+        <img src="https://img.shields.io/badge/--View_profile--0a66c2?style=flat-square" alt="View Profile">
       </a>
+      <br><br>
     </td>
   </tr>
 </table>
