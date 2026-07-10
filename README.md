@@ -47,7 +47,22 @@
 ### 🔗 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-emerald?style=flat-square&logo=googlechrome)](https://portfolio-sand-five-75.vercel.app/)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
 
+<br>
+
+<table border="0" style="border: none;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="80" align="center" valign="middle" style="border: none;">
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/person.svg" width="60" style="border-radius: 50%; background-color: #e1e4e6; padding: 10px;" alt="Alok M.">
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      <strong>Alok M.</strong><br>
+      <font size="2" color="gray">Innovating with Edge AI and TinyML in Android Development</font><br>
+      <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+        <img src="https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
