@@ -43,41 +43,11 @@
 ![Samsung](https://img.shields.io/badge/Program-Samsung_Innovation_Campus-1428A0?style=flat-square&logo=samsung&logoColor=white)
 
 ---
-
 ### 🔗 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-emerald?style=flat-square&logo=googlechrome)](https://portfolio-sand-five-75.vercel.app/)
 
-<br>
-
-<table align="left" width="380" style="background-color: #ffffff; border: 1px solid #e0e0e0; border-collapse: separate; border-radius: 8px; overflow: hidden;">
-  <!-- Header Banner Section -->
-  <tr>
-    <td colspan="2" bgcolor="#f3ece4" align="left" style="padding: 12px 16px; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20" alt="LinkedIn">
-    </td>
-  </tr>
-  <!-- Profile Layout (Horizontal Alignment) -->
-  <tr>
-    <!-- Left Column: Profile Picture -->
-    <td width="80" align="center" valign="top" style="padding: 20px 0px 20px 20px; border: none;">
-      <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/person-circle.svg" width="65" height="65" style="border-radius: 50%; opacity: 0.3;" alt="Alok M.">
-    </td>
-    <!-- Right Column: Profile Info & Pill Button -->
-    <td align="left" valign="top" style="padding: 18px 20px 20px 16px; border: none; font-family: -apple-system, system-ui, sans-serif;">
-      <h3 style="margin: 0 0 4px 0; font-size: 18px; font-weight: 700; color: #000000; border-bottom: none;">Alok M.</h3>
-      <p style="margin: 0 0 14px 0; font-size: 13.5px; line-height: 1.4; color: #191919;">
-        Innovating with Edge AI and TinyML in Android Development<br>
-        <font color="gray" size="2">MindMatrixEd</font>
-      </p>
-      <a href="https://in.linkedin.com/in/alok-muranal?trk=profile-badge" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/--View_profile--0a66c2?style=flat-square" alt="View Profile" style="border-radius: 50px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br clear="left">
-<br>
+* **LinkedIn:** [Alok M. — View Profile](https://in.linkedin.com/in/alok-muranal?trk=profile-badge)
+* *Innovating with Edge AI and TinyML in Android Development | MindMatrixEd*
 
 ---
