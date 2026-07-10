@@ -50,27 +50,29 @@
 
 <br>
 
-<table align="left" width="300" style="background-color: #ffffff;">
-  <!-- Header Banner -->
+<table align="left" width="380" style="background-color: #ffffff; border: 1px solid #e0e0e0; border-collapse: separate; border-radius: 8px; overflow: hidden;">
+  <!-- Header Banner Section -->
   <tr>
-    <td bgcolor="#f3ece4" align="left" style="padding: 12px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="18" alt="LinkedIn">
+    <td colspan="2" bgcolor="#f3ece4" align="left" style="padding: 12px 16px; border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20" alt="LinkedIn">
     </td>
   </tr>
-  <!-- Profile Content -->
+  <!-- Profile Layout (Horizontal Alignment) -->
   <tr>
-    <td align="left" style="padding: 16px;">
-      <br>
-      <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/person-circle.svg" width="60" height="60" alt="Avatar">
-      <br><br>
-      <h3>Alok M.</h3>
-      <p>Innovating with Edge AI and TinyML in Android Development<br>
-      <font color="gray" size="2">MindMatrixEd</font></p>
-      <br>
-      <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
-        <img src="https://img.shields.io/badge/--View_profile--0a66c2?style=flat-square" alt="View Profile">
+    <!-- Left Column: Profile Picture -->
+    <td width="80" align="center" valign="top" style="padding: 20px 0px 20px 20px; border: none;">
+      <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/person-circle.svg" width="65" height="65" style="border-radius: 50%; opacity: 0.3;" alt="Alok M.">
+    </td>
+    <!-- Right Column: Profile Info & Pill Button -->
+    <td align="left" valign="top" style="padding: 18px 20px 20px 16px; border: none; font-family: -apple-system, system-ui, sans-serif;">
+      <h3 style="margin: 0 0 4px 0; font-size: 18px; font-weight: 700; color: #000000; border-bottom: none;">Alok M.</h3>
+      <p style="margin: 0 0 14px 0; font-size: 13.5px; line-height: 1.4; color: #191919;">
+        Innovating with Edge AI and TinyML in Android Development<br>
+        <font color="gray" size="2">MindMatrixEd</font>
+      </p>
+      <a href="https://in.linkedin.com/in/alok-muranal?trk=profile-badge" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/--View_profile--0a66c2?style=flat-square" alt="View Profile" style="border-radius: 50px;">
       </a>
-      <br><br>
     </td>
   </tr>
 </table>
