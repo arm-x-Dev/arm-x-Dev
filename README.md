@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Alok Muranal
+# Hi, I'm Alok Muranal
 
-### ⚡ Systems & Mobile Application Engineer
+### Systems & Mobile Application Engineer
 **Bridging the gap from ESP32 firmware to Android & Cloud.**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Mobile & Systems
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android)
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 * **ESP-32 Indoor Localization**
     * *Wireless positioning matrix using RSSI triangulation and a real-time tracking Android app.*
@@ -38,7 +38,7 @@
 
 ---
 
-### 🎓 Certifications & Education
+### Certifications & Education
 ![Degree](https://img.shields.io/badge/Education-ECE-red?style=flat-square)
 ![Samsung](https://img.shields.io/badge/Program-Samsung_Innovation_Campus-1428A0?style=flat-square&logo=samsung&logoColor=white)
 
