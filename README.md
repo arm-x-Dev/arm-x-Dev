@@ -43,7 +43,7 @@
 ![Samsung](https://img.shields.io/badge/Program-Samsung_Innovation_Campus-1428A0?style=flat-square&logo=samsung&logoColor=white)
 
 ---
-### 🔗 Let's Connect
+### Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-emerald?style=flat-square&logo=googlechrome)](https://portfolio-sand-five-75.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/alok-muranal?trk=profile-badge)
