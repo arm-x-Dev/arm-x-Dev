@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alokmuranal.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alokmuranal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alok_Muranal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-muranal)
-[![Email](https://img.shields.io/badge/Email-alokmuranal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokmuranal@gmail.com)
+[![email](https://img.shields.io/badge/email-alokmuranal%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alokmuranal@gmail.com)
 
 I build deterministic **C / Embedded C** firmware and wireless sensing systems on resource-constrained microcontrollers—turning raw 802.11 Wi-Fi signals (CSI & RSSI) into real-time spatial telemetry and edge intelligence.
 
